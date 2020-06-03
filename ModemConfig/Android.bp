@@ -2,7 +2,7 @@ android_app {
     name: "ModemConfig",
     certificate: "platform",
 
-    proprietary: true,
+    product_specific: true,
     privileged: true,
 
     srcs: ["src/**/*.kt"],
@@ -16,6 +16,6 @@ prebuilt_etc {
     name: "privapp_whitelist_com.sony.opentelephony.modemconfig",
     sub_dir: "permissions",
     src: "privapp_whitelist_com.sony.opentelephony.modemconfig.xml",
-    proprietary: true,
+    product_specific: true,
     filename_from_src: true,
 }
