@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Informação da configuração</string>
+    <string name="notification_title_modem_configuration">Configuração do modem</string>
+    <string name="notification_title_slot_index">Espaço %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Configuração do modem: %1$s\nFicheiro de firmware: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Nenhuma configuração do modem encontrada</string>
+</resources>

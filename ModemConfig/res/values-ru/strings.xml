@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Информация о конфигурации</string>
+    <string name="notification_title_modem_configuration">Конфигурация модема</string>
+    <string name="notification_title_slot_index">Слот %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Конфигурация модема: %1$s\nФайл прошивки: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Конфигураций модема не найдено</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">구성 정보</string>
+    <string name="notification_title_modem_configuration">모뎀 구성</string>
+    <string name="notification_title_slot_index">슬롯 %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">모뎀 구성: %1$s\n펌웨어 파일: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">모뎀 구성을 찾을 수 없습니다.</string>
+</resources>
