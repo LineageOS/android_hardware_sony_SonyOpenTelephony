@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Πληροφορίες ρύθμισης</string>
+    <string name="notification_title_modem_configuration">Ρύθμιση μόντεμ</string>
+    <string name="notification_title_slot_index">Υποδοχή %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Ρύθμιση μόντεμ: %1$s\nΑρχείο υλικολογισμικού: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Δεν βρέθηκαν ρυθμίσεις μόντεμ</string>
+</resources>

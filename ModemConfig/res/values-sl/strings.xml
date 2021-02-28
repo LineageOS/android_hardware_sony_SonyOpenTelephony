@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Podatki o nastavitvi</string>
+    <string name="notification_title_modem_configuration">Nastavitev modema</string>
+    <string name="notification_title_slot_index">Reža %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Nastavitev modema: %1$s\nDatoteka str. pr. opreme: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Ni najdenih nastavitev modema</string>
+</resources>

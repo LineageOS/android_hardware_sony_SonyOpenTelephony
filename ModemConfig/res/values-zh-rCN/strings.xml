@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">配置信息</string>
+    <string name="notification_title_modem_configuration">调制解调器配置</string>
+    <string name="notification_title_slot_index">插槽 %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">调制解调器配置： %1$s\n固件文件： %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">未找到调制解调器配置</string>
+</resources>

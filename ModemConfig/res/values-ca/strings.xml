@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Informació de la configuració</string>
+    <string name="notification_title_modem_configuration">Configuració del mòdem</string>
+    <string name="notification_title_slot_index">Ranura %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Configuració del mòdem: %1$s\nFitxer del microprogramari: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">No s\'ha trobat cap configuració del mòdem</string>
+</resources>
