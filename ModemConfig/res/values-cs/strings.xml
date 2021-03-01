@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Informace o\u00a0konfiguraci</string>
+    <string name="notification_title_modem_configuration">Konfigurace modemu</string>
+    <string name="notification_title_slot_index">Pozice %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Konfigurace modemu: %1$s\nSoubor firmwaru: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Nebyla nalezena žádná konfigurace modemu</string>
+</resources>
