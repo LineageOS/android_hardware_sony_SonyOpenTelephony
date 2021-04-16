@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Konfigurointitiedot</string>
+    <string name="notification_title_modem_configuration">Modeemin määritykset</string>
+    <string name="notification_title_slot_index">Paikka %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Modeemin määritykset: %1$s\nLaiteohjelmistotiedosto: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Modeemin määrityksiä ei löytynyt</string>
+</resources>
