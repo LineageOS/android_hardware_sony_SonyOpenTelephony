@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Информация за конфигурацията</string>
+    <string name="notification_title_modem_configuration">Конфигурация на модема</string>
+    <string name="notification_title_slot_index">Слот %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Конфигурация на модема: %1$s\nФайл на фърмуер: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Няма конфигурация на модема</string>
+</resources>
