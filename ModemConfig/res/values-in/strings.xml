@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Info konfigurasi</string>
+    <string name="notification_title_modem_configuration">Konfigurasi modem</string>
+    <string name="notification_title_slot_index">Slot %1$s</string>
+    <string name="notification_text_modem_configuration_no_match">Tidak ditemukan konfigurasi modem</string>
+</resources>

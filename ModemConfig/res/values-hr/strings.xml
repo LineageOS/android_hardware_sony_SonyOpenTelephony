@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Informacije o konfiguraciji</string>
+    <string name="notification_title_modem_configuration">Konfiguracija modema</string>
+    <string name="notification_title_slot_index">Utor %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Konfiguracija modema:  %1$s\nFirmware datoteka: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Nije pronađena nijedna konfiguracija modema</string>
+</resources>

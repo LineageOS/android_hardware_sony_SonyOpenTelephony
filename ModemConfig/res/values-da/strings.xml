@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Konfigurations info</string>
+    <string name="notification_title_slot_index">Plads %1$s</string>
+</resources>

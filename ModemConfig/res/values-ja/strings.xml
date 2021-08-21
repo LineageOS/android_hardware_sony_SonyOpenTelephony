@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">設定情報</string>
+    <string name="notification_title_modem_configuration">モデムの設定</string>
+    <string name="notification_title_slot_index">スロット%1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">モデムの設定: %1$s\nファームウェアファイル: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">モデムの設定が見つかりません</string>
+</resources>

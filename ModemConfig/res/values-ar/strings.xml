@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">معلومات الإعداد</string>
+    <string name="notification_title_modem_configuration">إعداد المودم</string>
+    <string name="notification_title_slot_index">خانة %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">إعداد المودم: %1$s\nملف النظام: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">لم يُعثر على إعداد مودم</string>
+</resources>
