@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">কনফিগারেশনের তথ্য</string>
+    <string name="notification_title_modem_configuration">মডেম এর কনফিগারেশন</string>
+    <string name="notification_title_slot_index">স্লট %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">মডেম এর কনফিগারেশন: %1$s\nফার্মওয়্যার ফাইল: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">কোনো মডেম এর কনফিগারেশন পাওয়া যায়নি</string>
+</resources>

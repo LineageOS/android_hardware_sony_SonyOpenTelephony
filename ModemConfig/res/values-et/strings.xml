@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="notification_channel_configuration_info">Konfiguratsiooni teave</string>
+    <string name="notification_title_modem_configuration">Modemi konfiguratsioon</string>
     <string name="notification_title_slot_index">Pesa %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Modemi konfiguratsioon: %1$s\nPüsivara fail: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Modemi konfiguratsiooni ei leitud</string>
 </resources>

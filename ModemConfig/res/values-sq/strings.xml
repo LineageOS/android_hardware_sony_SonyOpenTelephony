@@ -3,5 +3,6 @@
     <string name="notification_channel_configuration_info">Informacioni i konfigurimit</string>
     <string name="notification_title_modem_configuration">Konfigurimi i modemit</string>
     <string name="notification_title_slot_index">Vend i caktuar %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Konfigurimi i modemit: %1$s\nSkedari i firmuerit: %2$s</string>
     <string name="notification_text_modem_configuration_no_match">Nuk u gjet asnjë konfigurim i modemit</string>
 </resources>

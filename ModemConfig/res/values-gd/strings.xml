@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Fiosrachadh an rèiteachaidh</string>
+    <string name="notification_title_modem_configuration">Rèiteachadh a’ mhòdaim</string>
+    <string name="notification_title_slot_index">Slot %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Rèiteachadh a’ mhòdaim: %1$s\nFaidhle bathar-an-sàs: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Cha deach rèiteachadh mòdaim a lorg</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">გამართვის მონაცემები</string>
+    <string name="notification_title_modem_configuration">მოდემის პარამეტრები</string>
+    <string name="notification_title_slot_index">ჩასასმელი %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">მოდემის გასამართი: %1$s\nპროგრამული ფაილი: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">მოდემის გასამართი ვერ მოიძებნა</string>
+</resources>
