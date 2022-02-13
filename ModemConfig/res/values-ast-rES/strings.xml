@@ -3,6 +3,6 @@
     <string name="notification_channel_configuration_info">Información de la configuración</string>
     <string name="notification_title_modem_configuration">Configuración del módem</string>
     <string name="notification_title_slot_index">Ralura %1$s</string>
-    <string name="notification_text_modem_configuration_resolved_modem_config">Configuración del módem: %1$s\nFicheru del firmware: %2$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Configuración del módem: «%1$s»\nFicheru del firmware: «%2$s»</string>
     <string name="notification_text_modem_configuration_no_match">Nun s\'atopó nenguna configuración del módem</string>
 </resources>
