@@ -16,6 +16,24 @@
       "message": "Fix it upstream @ https://github.com/sonyxperiadev/SonyOpenTelephony and I\u0027ll pick the change here later.",
       "revId": "960755acaf3577bedf11903a5749e531620c103f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c96668c9_727f38dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-04-24T08:36:16Z",
+      "side": 1,
+      "message": "Ah, looks like it was done here https://github.com/sonyxperiadev/SonyOpenTelephony/pull/10 so might need to bump it or something.",
+      "parentUuid": "aab11806_15b3321e",
+      "revId": "960755acaf3577bedf11903a5749e531620c103f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
