@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aab11806_15b3321e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-04-24T08:35:43Z",
+      "side": 1,
+      "message": "Fix it upstream @ https://github.com/sonyxperiadev/SonyOpenTelephony and I\u0027ll pick the change here later.",
+      "revId": "960755acaf3577bedf11903a5749e531620c103f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
