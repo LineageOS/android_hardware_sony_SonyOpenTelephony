@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Información de configuración</string>
+    <string name="notification_title_modem_configuration">Configuración del módem</string>
+    <string name="notification_title_slot_index">Ranura %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Configuración de módem: %1$s\nArchivo de firmware: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">No se encontró configuración de módem</string>
+</resources>
