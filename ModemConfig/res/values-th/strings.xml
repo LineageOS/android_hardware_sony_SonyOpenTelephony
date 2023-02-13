@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">ข้อมูลการตั้งค่า</string>
+    <string name="notification_title_modem_configuration">ตัวกำหนดค่าโมเด็ม</string>
+    <string name="notification_title_slot_index">สล็อต %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">ตัวกำหนดค่าโมเด็ม: %1$s\nไฟล์เฟิร์มแวร์: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">ไม่พบตัวกำหนดค่าโมเด็ม</string>
+</resources>
