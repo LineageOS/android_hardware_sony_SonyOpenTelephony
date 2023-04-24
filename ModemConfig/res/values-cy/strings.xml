@@ -3,5 +3,6 @@
     <string name="notification_channel_configuration_info">Manylion ffurfweddiad</string>
     <string name="notification_title_modem_configuration">Ffurfweddiad y modem</string>
     <string name="notification_title_slot_index">Slot %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Ffurfweddiad y modem: %1$s\nFfeil cadarnwedd: %2$s</string>
     <string name="notification_text_modem_configuration_no_match">Heb ganfod ffurfweddiad y modem</string>
 </resources>
