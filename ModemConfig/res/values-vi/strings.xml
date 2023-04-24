@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Thông tin cấu hình</string>
+    <string name="notification_title_modem_configuration">Cấu hình modem</string>
+    <string name="notification_title_slot_index">Khe %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Cấu hình modem: %1$s\nTệp firmware: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Không tìm thấy cấu hình modem</string>
+</resources>
