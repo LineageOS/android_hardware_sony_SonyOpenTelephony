@@ -3,5 +3,6 @@
     <string name="notification_channel_configuration_info">Info konfigurasi</string>
     <string name="notification_title_modem_configuration">Konfigurasi modem</string>
     <string name="notification_title_slot_index">Slot %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Konfigurasi modem: %1$s\nFile firmware: %2$s</string>
     <string name="notification_text_modem_configuration_no_match">Tidak ditemukan konfigurasi modem</string>
 </resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Talɣut n twila</string>
+    <string name="notification_title_modem_configuration">Tawila n umudem</string>
+</resources>
