@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_title_modem_configuration">Канфігурацыя мадэма</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Канфігурацыя мадэма: %1$s\nФайл прашыўкі: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Канфігурацыя мадэма не знойдзена</string>
+</resources>
