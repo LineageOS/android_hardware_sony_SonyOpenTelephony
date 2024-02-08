@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Upplýsingar um uppsetningu</string>
+    <string name="notification_title_slot_index">Hólf %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Uppsetning mótalds: %1$s\nGrunnhugbúnaðarskrá: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Engin mótaldsuppsetning fannst</string>
+</resources>
