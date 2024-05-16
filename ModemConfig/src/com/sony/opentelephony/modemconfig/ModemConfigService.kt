@@ -33,7 +33,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 private const val TAG = "ModemConfigReceiver"
-private const val VERBOSE = false
+private const val VERBOSE = true
 private const val NOTIFICATION_CHANNEL_ID = "Configuration"
 private const val NOTIFICATION_GROUP_KEY_SLOTS = "com.sony.opentelephony.modemconfig.slot_result"
 private const val NOTIFICATION_ID = 1
