@@ -16,6 +16,24 @@
       "message": "This makes life easier if someone complains about having the generic modem config applied. That way we get more information about the operator which will be logged in line 135.",
       "revId": "23639ff4b07ba4c509af101c3d214ffd1992bc15",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b38bf11d_b6460fb3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26916
+      },
+      "writtenOn": "2024-05-16T10:36:14Z",
+      "side": 1,
+      "message": "Example case: https://gitlab.com/LineageOS/issues/android/-/issues/5772",
+      "parentUuid": "43d61a92_ce9a7ec6",
+      "revId": "23639ff4b07ba4c509af101c3d214ffd1992bc15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
