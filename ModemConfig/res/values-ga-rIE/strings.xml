@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Eolas cumraíochta</string>
+    <string name="notification_title_modem_configuration">Cumraíocht móideim</string>
+    <string name="notification_title_slot_index">Sliotán %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">Cumraíocht móideim: %1$s\nComhad dochtearraí: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Níor aimsíodh aon chumraíocht móideim</string>
+</resources>
