@@ -4,5 +4,5 @@
     <string name="notification_title_modem_configuration">Configuración del módem</string>
     <string name="notification_title_slot_index">Ranura %1$s</string>
     <string name="notification_text_modem_configuration_resolved_modem_config">Configuración de módem: %1$s\nArchivo de firmware: %2$s</string>
-    <string name="notification_text_modem_configuration_no_match">No se encontró configuración de módem</string>
+    <string name="notification_text_modem_configuration_no_match">No se ha encontrado la configuración del módem</string>
 </resources>
