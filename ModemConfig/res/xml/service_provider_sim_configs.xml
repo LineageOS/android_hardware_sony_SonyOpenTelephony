@@ -190,6 +190,16 @@
     <mnc>30</mnc>
     <gid1>2800000000000000</gid1>
   </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S22.6">
+    <mcc>206</mcc>
+    <mnc>01</mnc>
+    <gid1>2800000000000000</gid1>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S22.7">
+    <mcc>206</mcc>
+    <mnc>20</mnc>
+    <gid1>2800000000000000</gid1>
+  </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S23.1">
     <mcc>234</mcc>
     <mnc>10</mnc>
@@ -298,6 +308,10 @@
     <mcc>240</mcc>
     <mnc>01</mnc>
     <sp>Telia</sp>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S54.2">
+    <mcc>240</mcc>
+    <mnc>01</mnc>
   </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S55.3">
     <mcc>240</mcc>
@@ -418,6 +432,11 @@
   <service_provider_sim_config sim_config_id="S123.1">
     <mcc>238</mcc>
     <mnc>01</mnc>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S123.2">
+    <mcc>238</mcc>
+    <mnc>01</mnc>
+    <imsi>23801015</imsi>
   </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S125.1">
     <mcc>238</mcc>
@@ -773,6 +792,10 @@
     <mcc>310</mcc>
     <mnc>280</mnc>
   </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S263.11">
+    <mcc>311</mcc>
+    <mnc>180</mnc>
+  </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S264.1">
     <mcc>310</mcc>
     <mnc>160</mnc>
@@ -1034,6 +1057,11 @@
     <mcc>454</mcc>
     <mnc>18</mnc>
     <sp>Club</sp>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S366.22">
+    <mcc>454</mcc>
+    <mnc>00</mnc>
+    <sp>Club SIM</sp>
   </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S367.1">
     <mcc>454</mcc>
@@ -1523,6 +1551,11 @@
     <mnc>03</mnc>
     <sp>OpenMovil</sp>
   </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S527.3">
+    <mcc>214</mcc>
+    <mnc>03</mnc>
+    <sp>Virgin telco</sp>
+  </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S537.1">
     <mcc>214</mcc>
     <mnc>04</mnc>
@@ -1921,6 +1954,10 @@
     <mcc>214</mcc>
     <mnc>03</mnc>
     <sp>RACC</sp>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S8685.1">
+    <mcc>440</mcc>
+    <mnc>07</mnc>
   </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S8686.1">
     <mcc>214</mcc>
@@ -2530,9 +2567,19 @@
     <mnc>20</mnc>
     <imsi>2382089</imsi>
   </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S9162.3">
+    <mcc>238</mcc>
+    <mnc>20</mnc>
+    <imsi>^2382089.*</imsi>
+  </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S9163.1">
     <mcc>502</mcc>
     <mnc>153</mnc>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S9165.1">
+    <mcc>440</mcc>
+    <mnc>51</mnc>
+    <gid1>20</gid1>
   </service_provider_sim_config>
   <service_provider_sim_config sim_config_id="S9170.1">
     <mcc>214</mcc>
@@ -2611,5 +2658,15 @@
   <service_provider_sim_config sim_config_id="S9174.1">
     <mcc>240</mcc>
     <mnc>680</mnc>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S9176.1">
+    <mcc>440</mcc>
+    <mnc>51</mnc>
+    <gid1>10</gid1>
+  </service_provider_sim_config>
+  <service_provider_sim_config sim_config_id="S9178.1">
+    <mcc>260</mcc>
+    <mnc>09</mnc>
+    <sp>Lycamobile</sp>
   </service_provider_sim_config>
 </service_provider_sim_configs>
