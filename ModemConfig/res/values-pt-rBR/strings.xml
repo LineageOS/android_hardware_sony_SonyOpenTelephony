@@ -2,5 +2,7 @@
 <resources>
     <string name="notification_channel_configuration_info">Informações de configuração</string>
     <string name="notification_title_modem_configuration">Configuração do modem</string>
+    <string name="notification_title_slot_index">Slot %1$s</string>
     <string name="notification_text_modem_configuration_resolved_modem_config">Configuração do modem: %1$s\nArquivo de firmware: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">Nenhuma configuração de modem encontrada</string>
 </resources>
