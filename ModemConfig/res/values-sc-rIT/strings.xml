@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">Informatzione de cunfiguratzione</string>
+    <string name="notification_title_modem_configuration">Cunfiguratzione de su mòdem</string>
+    <string name="notification_text_modem_configuration_no_match">Nissuna cunfiguratzione de mòdem agatada</string>
+</resources>
