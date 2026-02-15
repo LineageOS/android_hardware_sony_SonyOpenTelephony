@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notification_channel_configuration_info">உள்ளமைவுத் தெரிவல்</string>
+    <string name="notification_channel_configuration_info">உள்ளமைவுத் தகவல்</string>
     <string name="notification_title_modem_configuration">இணக்கி உள்ளமைவு</string>
-    <string name="notification_title_slot_index">செருகிடம் %1$s</string>
+    <string name="notification_title_slot_index">செருகுமிடம் %1$s</string>
     <string name="notification_text_modem_configuration_resolved_modem_config">இணக்கி உள்ளமைவு: %1$s\nநிலைபொருள் கோப்பு: %2$s</string>
-    <string name="notification_text_modem_configuration_no_match">இணக்கி உள்ளமைவு ஏதுமில்லை</string>
+    <string name="notification_text_modem_configuration_no_match">இணக்கி உள்ளமைவு இல்லை</string>
 </resources>
