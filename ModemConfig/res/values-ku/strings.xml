@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">زانیارییەکانی ڕێکخستن</string>
+    <string name="notification_title_modem_configuration">ڕێکخستنی مۆدێم</string>
+    <string name="notification_title_slot_index">کۆلێنکەی %1$s</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">ڕێکخستنی مۆدێم: %1$s\nفایلی فێرموێر: %2$s</string>
+    <string name="notification_text_modem_configuration_no_match">هیچ ڕێکخستنێکی مۆدێم نەدۆزرایەوە</string>
+</resources>
