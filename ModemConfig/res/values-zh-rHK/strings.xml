@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_configuration_info">設定資訊</string>
+    <string name="notification_title_modem_configuration">數據機設定</string>
+    <string name="notification_text_modem_configuration_resolved_modem_config">數據機設定：%1$s\n韌體檔案：%2$s</string>
+    <string name="notification_text_modem_configuration_no_match">沒有找到數據機設定</string>
+</resources>
